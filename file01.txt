@@ -1,2 +1,1 @@
-hello,world!
-hello,again
+update_count=2
